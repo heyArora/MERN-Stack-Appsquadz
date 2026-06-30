@@ -15,9 +15,9 @@ I'm using this repo to track my progress through the MERN stack — MongoDB, Exp
 
 ## Tech Stack
 
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 - MongoDB
 - Express.js
 - React
